@@ -1,0 +1,16 @@
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\bin\Debug\ForAlbich.exe.config
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\bin\Debug\ForAlbich.exe
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\bin\Debug\ForAlbich.pdb
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.csproj.AssemblyReference.cache
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.csproj.SuggestedBindingRedirects.cache
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\MainWindow.g.cs
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\App.g.cs
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich_MarkupCompile.cache
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich_MarkupCompile.lref
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\MainWindow.baml
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.g.resources
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.Properties.Resources.resources
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.csproj.GenerateResource.cache
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.csproj.CoreCompileInputs.cache
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.exe
+C:\Users\Twifu\source\repos\ForAlbich\ForAlbich\obj\Debug\ForAlbich.pdb
